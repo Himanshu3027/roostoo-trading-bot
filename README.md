@@ -41,8 +41,8 @@ roostbot/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/roostbot.git
-   cd roostbot
+   git clone https://github.com/Himanshu3027/roostoo-trading-bot.git
+   cd roostoo-trading-bot
    ```
 
 2. Install the required dependencies:
